@@ -42,7 +42,9 @@ This command will install the required packages and update `pyproject.toml` acco
 ```
 
 ## 📷 Screenshots
-(Screenshots of the game interface can be added here)
+
+![image](https://github.com/user-attachments/assets/b5f60124-22c7-49fe-9983-6a003ee54e3c)
+
 
 ## 🏗️ Project Structure
 ```
